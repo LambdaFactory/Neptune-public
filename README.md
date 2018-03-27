@@ -27,6 +27,8 @@ Visual Studio Code extension adding first class support for F# unit testing for 
 
 #### Debugging support (.Net Core only)
 
+![](https://github.com/Krzysztof-Cieslak/Neptune-public/blob/master/Img/Screenshot%20from%202018-03-27%2014.35.14.png)
+
 #### CodeLenses for running and debugging single test or test list
 
 ![](https://github.com/Krzysztof-Cieslak/Neptune-public/blob/master/Img/Screenshot%20from%202018-03-27%2000.41.55.png)
