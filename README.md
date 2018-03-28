@@ -1,6 +1,6 @@
 # Neptune - unit testing for VSCode
 
-Visual Studio Code extension adding first class support for F# unit testing for both .Net Framework and .Net Core.
+Visual Studio Code extension adding first class support for F# unit testing for both .Net Framework and .Net Core. Extension can be downloaded from [VSCode Extension Marketplace](https://marketplace.visualstudio.com/items?itemName=LambdaFactory.neptune).
 
 **Neptune is paid extension, license can be bought on [product webpage](https://gumroad.com/l/NeptunePlugin). Downloading plugin from VSCode Extensions Marketplace you agree on our [License](LICENSE.md) and have access to 7 days, free evaluation period.**
 
