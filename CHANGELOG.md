@@ -1,3 +1,8 @@
+### 1.1.2 - 14.04.2018
+* Fix test reporting for NUnit's TestSource
+* Add icon for `Go to test` command
+* Fix test reporting for NUnit/XUnit tests ending with `(Some text)`
+
 ### 1.1.0 - 11.04.2018
 * Add support for NUnit's TestSource
 * Add `Go to test` command to command palette
