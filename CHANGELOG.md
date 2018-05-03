@@ -1,3 +1,6 @@
+### 1.2.0 - 3.05.2018
+* Move test explorer to its own view in activity bar
+
 ### 1.1.2 - 14.04.2018
 * Fix test reporting for NUnit's TestSource
 * Add icon for `Go to test` command
