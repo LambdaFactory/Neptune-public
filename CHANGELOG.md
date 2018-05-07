@@ -1,3 +1,6 @@
+### 1.3.0 - 7.05.2018
+* PREVIEW: Initial version of Code Coverage - NUnit/XUnit for .Net Core
+
 ### 1.2.0 - 3.05.2018
 * Move test explorer to its own view in activity bar
 
