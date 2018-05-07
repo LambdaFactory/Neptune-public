@@ -37,13 +37,17 @@ Visual Studio Code extension adding first class support for F# unit testing for 
 
 ![](Img/Screenshot%20from%202018-03-27%2000.48.44.png)
 
+#### PREVIEW: Code Coverage for NUnit and XUnit on .Net Core
+
+![](Img/Screenshot%20from%202018-05-07%2022.18.54.png)
+
 ## Support matrix
 
 The below table represents current state of the support for different types of runtimes and different operating systems:
 
 |                                  | Linux / MacOS | Windows |
 | ------------- |:-------------:| -----:|
-| **.Net Core**                        | Running and Debugging | Running and Debugging |
+| **.Net Core**                        | Running and Debugging, Code Coverage (NUnit/XUnit) | Running and Debugging, Code Coverage (NUnit/XUnit) |
 | **Full Framework, new project file** | Running (only Expecto) | Running |
 | **Full Framework, old project file** | Running | Running |
 
