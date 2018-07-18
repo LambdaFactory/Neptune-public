@@ -1,3 +1,8 @@
+### 1.3.4 - 18.07.2018
+* Fix detection of Expectot tests using lambda syntax (without `<|`)
+* Fix race condition for project parsing at the startup of plugin.
+* Fix running .Net Core expecto tests.
+
 ### 1.3.1 - 26.06.2018
 * Code Coverage changes:
   - disable code coverage by default
